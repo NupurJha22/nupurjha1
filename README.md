@@ -1,2 +1,2 @@
 # nupurjha1
-the file
+these file are few assignments of HTML and CSS.
